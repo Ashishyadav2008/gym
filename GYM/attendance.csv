@@ -1,0 +1,9 @@
+ID,Name,Date,EntryTime,ExitTime,Status
+1,Ashish yadav,2025-10-29,19:09:04,19:09:30,Exited
+2,Parvez,2025-10-29,19:13:06,19:13:35,Exited
+3,Danny,2025-10-29,19:21:14,19:22:22,Exited
+1,Ashish yadav,2025-10-30,11:00:02,,Present
+101,Manav,2025-11-16,11:29:57,11:32:23,Exited
+102,Ashish Yadav,2025-11-23,11:30:03,,Present
+2,Parvez,2025-12-04,16:39:31,,Present
+2,Parvez,2025-12-25,11:04:00,,Present
